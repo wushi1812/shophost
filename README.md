@@ -1,1 +1,2 @@
 # shophost
+<name>
